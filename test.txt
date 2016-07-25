@@ -1,2 +1,3 @@
 git test
 dev
+Git has a mutable index called stage.
